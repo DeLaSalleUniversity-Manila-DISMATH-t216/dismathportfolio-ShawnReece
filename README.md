@@ -49,3 +49,53 @@ I have learn that in the conditional, thier can be converse and contrapositive o
 
 * converse - q	→	p
 
+Equivalence	Name
+
+p∧T≡p
+
+p∨F≡p	     ---Identity laws
+
+
+p∨T≡T
+
+p∧F≡F	     ---Domination laws
+
+
+p∨¬p≡T
+
+p∧¬p≡F	     ---Negation laws
+
+
+p∨p≡p
+
+p∧p≡p	     ---Idempotent laws
+
+
+¬(¬p)≡p	     ---Double negation law
+
+
+p∨q≡q∨p
+
+p∧q≡q∧p	     ---Commutative laws
+
+
+(p∨q)∨r≡p∨(q∨r)
+
+(p∧q)∧r≡p∧(q∧r)	     ---Associative laws
+
+
+p∨(q∧r)≡(p∨q)∧(p∨r)
+
+p∧(q∨r)≡(p∧q)∨(p∧r)	     ---Distributive laws
+
+
+¬(p∧q)≡¬p∨¬q
+
+¬(p∨q)≡¬p∧¬q	     ---De Morgan's laws
+
+
+p∨(p∧q)≡p
+
+p∧(p∨q)≡p	     ---Absorption laws
+
+
