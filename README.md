@@ -37,7 +37,7 @@ but our target is most likly to be the probable truth.
 
 - I also learn how to use the "Truth Table" which is quite interesting.
 
-
+- Truth Value as bit where p is T and q is False
 
 Week 2: 
 
@@ -97,5 +97,45 @@ p∧(q∨r)≡(p∧q)∨(p∧r)	     ---Distributive laws
 p∨(p∧q)≡p
 
 p∧(p∨q)≡p	     ---Absorption laws
+
+- plus kinds of Quantifiers
+
+*Existential Quantifiers - true if "there exist" at least one true and not if all are false
+
+*Universal Quantifiers - true if all are true and not if one that exist is false
+
+
+Week 3: 
+
+-I have learn the rule of inference.
+
+they are:
+
+*argument - sequence of statement that ends with a conclusion
+
+*valid -  Tautology meaning it is always true and never false
+
+*fallacy - common form of incorrect reasoning which leads to invalid arguments
+
+
+For Tautology:
+
+Rules of Inference:
+
+*Modus ponens
+
+*Modus tollens
+
+*Hyopthetical Syllogism
+
+*Disjunctive Syllogism
+
+*Addition
+
+*Simplification
+
+*Conjunction
+
+*Resolution
 
 
