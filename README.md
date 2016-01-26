@@ -31,9 +31,9 @@ but our target is most likly to be the probable truth.
 
 4. exclusive or     ( + )         -xor
 
-5. conditional      ( -> )     -if, then
+5. conditional      ( 	→	 )     -if, then
 
-6. biconditional   ( <-> )      -Iff
+6. biconditional   ( 	↔	 )      -Iff
 
 - I also learn how to use the "Truth Table" which is quite interesting.
 
@@ -43,4 +43,9 @@ Week 2:
 
 I have learn that in the conditional, thier can be converse and contrapositive of it.
 
-* contrapositive
+p	→	q
+
+* contrapositive - ¬p	→  ¬q
+
+* converse - q	→	p
+
