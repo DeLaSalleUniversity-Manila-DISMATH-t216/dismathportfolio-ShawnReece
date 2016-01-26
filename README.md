@@ -43,7 +43,7 @@ Week 2:
 
 I have learn that in the conditional, thier can be converse and contrapositive of it.
 
-p	→	q
+            p	→	q
 
 * contrapositive - ¬p	→  ¬q
 
