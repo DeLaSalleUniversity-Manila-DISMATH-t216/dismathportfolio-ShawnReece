@@ -139,3 +139,31 @@ Rules of Inference:
 *Resolution
 
 
+Week 4:
+
+-I have learn the kinds or methods of proof or should i say proving.
+
+as for now these are the methods i have learn this week.
+
+*Direct Proof
+
+*Proof by Contraposition (Indirect)
+
+*Vacuous and Trivial Proof
+
+*Proof by Contradiction (Indirect)
+
+
+Direct Proof - always assume p to be true then show tha q is also
+
+Next
+
+Contraposition - first is to say that not q is true then prove not p is also true
+
+Next
+
+the Vacuous proof - show that p is false when p implies q is true so its like not p implies quantity of p implies q or q implies quantity of p implies q
+
+and Lastly 
+
+some part of Contradiction - somewhat confusing but if my understanding is correct that assume not p is true then show that not p really ends a contradiction.
