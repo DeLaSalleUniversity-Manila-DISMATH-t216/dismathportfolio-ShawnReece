@@ -39,7 +39,7 @@ but our target is most likly to be the **_probable truth_**.
 
 *- Truth Value as bit where p is T and q is False*
 
-**Week 2: **
+**Week 2:**
 
 **-I have learn that in the conditional, thier can be converse and contrapositive of it.**
 
