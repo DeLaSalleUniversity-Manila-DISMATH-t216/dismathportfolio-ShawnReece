@@ -1,29 +1,29 @@
 # dismathportfolio-ShawnReece
 dismathportfolio-ShawnReece created by Classroom for GitHub
 
-Week 1:
+**Week 1:**
 
--I just found out that there are many kinds of truth
+*-I just found out that there are many kinds of truth*
 
 They are:
 
-1. Legal truth (Judicial system) is decided by a judge or jury based on the allowable evidence presented at trial.
+1. **Legal truth** (**Judicial system**) is decided by a *judge or jury* based on the allowable evidence presented at trial.
 
-2. Authoritative truth (Business) is specified by a trusted person or organization, or maybe just your boss.
+2. **Authoritative truth** (*Business*) is specified by a *trusted person or organization*, or maybe just your boss.
 
-3. Scientific truth is confirmed by experiment but only scientific falsehood can be demonstrated by an experiment—when the experiment fails to behave as predicted.
+3. **Scientific truth** is confirmed by *experiment* but only scientific falsehood can be demonstrated by an experiment—when the experiment fails to behave as predicted.
 
-4. Probable truth is established by statistical analysis of sample data.
+4. **Probable truth** is established by *statistical analysis* of sample data.
 
-5. Philosophical proof involves careful exposition and persuasion typically based on a series of small, plausible arguments.
+5. **Philosophical proof** involves careful exposition and persuasion typically based on a series of small, plausible arguments.
 
-but our target is most likly to be the probable truth.
+but our target is most likly to be the **_probable truth_**.
 
 -I also found out that word can sometimes be a symbol:
 
     operator      (symbol)    -usage
 
-1. nagation ( ¬ )        -not
+1. negation ( ¬ )        -not
 
 2. conjunction      ( ^ )         -and
 
@@ -35,13 +35,13 @@ but our target is most likly to be the probable truth.
 
 6. biconditional   ( 	↔	 )      -Iff
 
-- I also learn how to use the "Truth Table" which is quite interesting.
+*- I also learn how to use the "Truth Table" which is quite interesting.*
 
-- Truth Value as bit where p is T and q is False
+*- Truth Value as bit where p is T and q is False*
 
-Week 2: 
+**Week 2: **
 
-I have learn that in the conditional, thier can be converse and contrapositive of it.
+**-I have learn that in the conditional, thier can be converse and contrapositive of it.**
 
             p	→	q
 
@@ -49,78 +49,78 @@ I have learn that in the conditional, thier can be converse and contrapositive o
 
 * converse - q	→	p
 
-Equivalence	Name
+**Equivalence	Name**
 
 p∧T≡p
 
-p∨F≡p	     ---Identity laws
+p∨F≡p	     ---**Identity laws**
 
 
 p∨T≡T
 
-p∧F≡F	     ---Domination laws
+p∧F≡F	     ---**Domination laws**
 
 
 p∨¬p≡T
 
-p∧¬p≡F	     ---Negation laws
+p∧¬p≡F	     ---**Negation laws**
 
 
 p∨p≡p
 
-p∧p≡p	     ---Idempotent laws
+p∧p≡p	     ---**Idempotent laws**
 
 
-¬(¬p)≡p	     ---Double negation law
+¬(¬p)≡p	     ---**Double negation law**
 
 
 p∨q≡q∨p
 
-p∧q≡q∧p	     ---Commutative laws
+p∧q≡q∧p	     ---**Commutative laws**
 
 
 (p∨q)∨r≡p∨(q∨r)
 
-(p∧q)∧r≡p∧(q∧r)	     ---Associative laws
+(p∧q)∧r≡p∧(q∧r)	     ---**Associative laws**
 
 
 p∨(q∧r)≡(p∨q)∧(p∨r)
 
-p∧(q∨r)≡(p∧q)∨(p∧r)	     ---Distributive laws
+p∧(q∨r)≡(p∧q)∨(p∧r)	     ---**Distributive laws**
 
 
 ¬(p∧q)≡¬p∨¬q
 
-¬(p∨q)≡¬p∧¬q	     ---De Morgan's laws
+¬(p∨q)≡¬p∧¬q	     ---**De Morgan's laws**
 
 
 p∨(p∧q)≡p
 
-p∧(p∨q)≡p	     ---Absorption laws
+p∧(p∨q)≡p	     ---**Absorption laws**
 
-- plus kinds of Quantifiers
+*- plus kinds of Quantifiers*
 
-*Existential Quantifiers - true if "there exist" at least one true and not if all are false
+**Existential Quantifiers** - true if "there exist" at least one true and not if all are false
 
-*Universal Quantifiers - true if all are true and not if one that exist is false
+**Universal Quantifiers** - true if all are true and not if one that exist is false
 
 
-Week 3: 
+**Week 3:**
 
--I have learn the rule of inference.
+*-I have learn the rule of inference.*
 
 they are:
 
-*argument - sequence of statement that ends with a conclusion
+* **argument** - sequence of statement that ends with a conclusion
 
-*valid -  Tautology meaning it is always true and never false
+* **valid** -  Tautology meaning it is always true and never false
 
-*fallacy - common form of incorrect reasoning which leads to invalid arguments
+* **fallacy** - common form of incorrect reasoning which leads to invalid arguments
 
 
-For Tautology:
+For **Tautology**:
 
-Rules of Inference:
+**Rules of Inference:**
 
 *Modus ponens
 
@@ -139,11 +139,11 @@ Rules of Inference:
 *Resolution
 
 
-Week 4:
+**Week 4:**
 
--I have learn the kinds or methods of proof or should i say proving.
+*-I have learn the kinds or methods of proof or should i say proving.*
 
-as for now these are the methods i have learn this week.
+*as for now these are the methods i have learn this week.*
 
 *Direct Proof
 
@@ -154,16 +154,16 @@ as for now these are the methods i have learn this week.
 *Proof by Contradiction (Indirect)
 
 
-Direct Proof - always assume p to be true then show tha q is also
+**Direct Proof** - always assume p to be true then show tha q is also
 
 Next
 
-Contraposition - first is to say that not q is true then prove not p is also true
+**Contraposition** - first is to say that not q is true then prove not p is also true
 
 Next
 
-the Vacuous proof - show that p is false when p implies q is true so its like not p implies quantity of p implies q or q implies quantity of p implies q
+the **Vacuous proof** - show that p is false when p implies q is true so its like not p implies quantity of p implies q or q implies quantity of p implies q
 
 and Lastly 
 
-some part of Contradiction - somewhat confusing but if my understanding is correct that assume not p is true then show that not p really ends a contradiction.
+some part of **Contradiction** - somewhat confusing but if my understanding is correct that assume not p is true then show that not p really ends a contradiction.
