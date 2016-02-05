@@ -167,3 +167,24 @@ the **Vacuous proof** - show that p is false when p implies q is true so its lik
 and Lastly 
 
 some part of **Contradiction** - somewhat confusing but if my understanding is correct that assume not p is true then show that not p really ends a contradiction.
+
+**Week 5**
+
+*- I have learned the other kind of proof.*
+
+and they are:
+
+**Proof by equivalence** - by proving statement *biconditionally* that is true in both ways
+
+**Induction** - *first basis true with example  then induction ( another assume then Show that it's really true)* >very tricky
+
+*-he also introduced the _Introduction of summation_.* >just awhile didn't take more than 2 min.
+
+*-Finally the last topic he discussed that is very tricky and kinda learn* >but not sure if its kinda easy to understand though i get what he meant.
+
+**Reursive** -first basis specify the value of function at 0 > didn't quite get what it meant but ok? then recursive step
+
+*recursive step* - give a rule for finding thr its value at an integer from its value at smaller > not sure at this but i kinda did get and kinda not.
+
+
+
