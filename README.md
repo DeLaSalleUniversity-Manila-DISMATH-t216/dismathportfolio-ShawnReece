@@ -209,4 +209,17 @@ which goes to the **Hoare Triple** --**p{s}q**
 
 *If_Else Statement - (p^condition){s1}q ^ (p^condition){s2}q = p{if condition then s1 else s2}q
 
--I learn next was the formula of geometric series 
+-I learn next was the formula of **Geometric Series** - a1/(1-r)
+
+and two kind of series: 
+
+1. Convergent - continuous but countable >i think
+2. Divergent - infinite continuity
+
+Next is the ** Power Series** - similar as geometric series - a0/(1-x)
+
+And lastly **Set Theory**
+
+**Set Theory** - is the *unordered colllection of distinct collection*
+
+**Power Set** - a set of sets
