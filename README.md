@@ -187,4 +187,26 @@ and they are:
 *recursive step* - give a rule for finding thr its value at an integer from its value at smaller > not sure at this but i kinda did get and kinda not.
 
 
+**Week 6**
 
+*-I have learn this week was the:*
+
+first - **Recursive Algorithm** > quite not there yet since im still beginning programming
+
+second - **Program Correctness** > this is just like provong that the problem is alwys true by this kinds of style:
+
+**insights** - first show that the correct answer is obtained if it terminates (**Partial Correctness**) then show it or prove it that it *always terminates*
+
+2 proposition - **Intial and Final Assertion**
+
+which goes to the **Hoare Triple** --**p{s}q**
+
+**4 kinds of style**
+
+*rule of inference - p{s1}q ^ q{s2}r = p{s1,s2}r
+
+*conditional Statement - (p^condition){s}q ^ (p^condition)-> q = p{if condition then s}q
+
+*If_Else Statement - (p^condition){s1}q ^ (p^condition){s2}q = p{if condition then s1 else s2}q
+
+-I learn next was the formula of geometric series 
