@@ -223,3 +223,13 @@ And lastly **Set Theory**
 **Set Theory** - is the *unordered colllection of distinct collection*
 
 **Power Set** - a set of sets
+
+**Week 7**
+
+*-what i learn this week was the **Cardinality** of set of number of element it contains.
+
+> pretty much some ideas about it, i think
+
+*-And ofcourse we reviewed for the test at friday.
+
+>and nothing pretty much after that.
