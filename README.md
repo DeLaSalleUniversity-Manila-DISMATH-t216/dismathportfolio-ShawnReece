@@ -233,3 +233,24 @@ And lastly **Set Theory**
 *-And ofcourse we reviewed for the test at friday.
 
 >and nothing pretty much after that.
+
+**Week 8**
+
+*-what i have learned this week was the __Algorithm__*
+
+**Algorithm** - is a finite set of instruction for performing a computationalist or for solving a problem
+
+**Pseudocode** - high-level description of an algorithm that use structural conventions of a programming language
+
+**Parts of the Pseudocode**
+
+1. Input
+2. output
+3. Definiteness
+4. Correctness
+5. Finiteness
+6. Generality
+
+Another kind of Algorithm was the **Searching Algorithm** and **Binary Search Algorithm**
+
+And another is **Iteration** which kinda like the truth table.
