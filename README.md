@@ -254,3 +254,13 @@ And lastly **Set Theory**
 Another kind of Algorithm was the **Searching Algorithm** and **Binary Search Algorithm**
 
 And another is **Iteration** which kinda like the truth table.
+
+**Week 9**
+
+*- I hae learned are:*
+
+1. Search - just search it accordingly for the location of the desired ouput
+2. Binary - just search it in order by dividing the search by half  and half of remain like a loop till it search the desired output location.
+3. Bubble sort - what it does just make the numbers in order by comparing first and the one beside the first than the one being compared is now comparing the beside it then goes on like a loop then back to start after ireaches the end
+4. insert sort - just the same thing as ordering by order but in a different way - not sure how to explain and not sure if im sure with the understanding of this
+5. Greedy Algorith - i dont know yet - but will discussed in next meeting
