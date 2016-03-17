@@ -263,4 +263,10 @@ And another is **Iteration** which kinda like the truth table.
 2. **Binary** - just search it in order by dividing the search by half  and half of remain like a loop till it search the desired output location.
 3. **Bubble sort** - what it does just make the numbers in order by comparing first and the one beside the first than the one being compared is now comparing the beside it then goes on like a loop then back to start after ireaches the end
 4. **insert sort** - just the same thing as ordering by order but in a different way - not sure how to explain and not sure if im sure with the understanding of this
-5. **Greedy Algorith** - i dont know yet - but will discussed in next meeting
+5. **Greedy Algorith** - is something like changes on money
+
+**Week 10**
+
+*-i have learned this week was the*
+
+1. **growth of function**-using big O, omega, and theta
