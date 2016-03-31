@@ -269,4 +269,37 @@ And another is **Iteration** which kinda like the truth table.
 
 *-i have learned this week was the*
 
-1. **growth of function**-using big O, omega, and theta
+1. **growth of function**-using big O, omega, and theta although i dont get it somehow I think there is something missing in this lesson
+
+
+**Week 10**
+
+*I have learned the graph*
+
+**Graph** – discrete structures consisting of vertices and edges that connect these vertices.
+
+*A graph G = (V, E)* consists of V, a nonempty set of *vertices (or nodes )* and E, a set of edges. Each *edge* has either one or two vertices associated with it, called its *endpoints*.
+
+The *degree* of a vertex in an undirected graph is the number of edges incident with it, except that a loop at a vertex contributes twice to the degree of that vertex.
+
+**Handshaking Theorem** - 2e equals summation of deg v
+
+A *subgraph* of a graph G - A subgraph H of G is a proper subgraph of G if H G.
+
+The *union* of two simple graphs is the simple graph with vertex and edge.
+
+*path* is a sequence of edges that begins at a vertex of a graph and travels from vertex to vertex along edges of the graph.
+
+**Euler circuit** in a graph G is a simple circuit containing every edge of G.
+
+A simple path in a graph G that passes through every vertex exactly once is called a *Hamilton path*, and a simple circuit in a graph G that passes through every vertex exactly once is called a *Hamilton circuit*
+
+**Matrices of Graphs - incidence matrix**
+
+**Isomorphism of Graphs** - same function just reshape and can be returned to its original
+
+**Planar graph** – are graphs that can be drawn in the plane without edges having to cross.
+
+**Euler's Formula** - r = e - v + 2 -the number of regions in a planar representation of G
+
+**Kuratowski's Theorem** - A graph is nonplanar if and only if it contains a subgraph homeomorphic
