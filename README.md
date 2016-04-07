@@ -1,6 +1,8 @@
 # dismathportfolio-ShawnReece
 dismathportfolio-ShawnReece created by Classroom for GitHub
 
+Hi, My name is Shawn Reece Tan Wu.
+
 **Week 1:**
 
 *-I just found out that there are many kinds of truth*
@@ -303,3 +305,31 @@ A simple path in a graph G that passes through every vertex exactly once is call
 **Euler's Formula** - r = e - v + 2 -the number of regions in a planar representation of G
 
 **Kuratowski's Theorem** - A graph is nonplanar if and only if it contains a subgraph homeomorphic
+
+**Week 11**
+
+*-what i have learned this week are:*
+
+-**Graphing Color** -this is the map that all same colors are not adjacent to each other and solving to how many color minimun that can be used
+
+**FOUR COLOR THEOREM** - it means to say that the maximun you can get is four color that has no same adjacent color or in short The chromatic number of a planar graph is no greater than four for planar only
+
+**tree** is a connected undirected graph with no simple circuits and is a data structure that emulates a hierarchical tree structure with a set of linked nodes
+
+A **rooted tree** is called an **m-ary tree** if every internal vertex has no more than m children. The tree is called a full m-ary tree if every internal vertex has exactly m children.
+
+**Ordered rooted tree** - a rooted tree where the children of each internal vertex are ordered.
+
+**Properties of Trees**
+
+-A tree with n vertices has n - 1 edges.
+-A full m-ary tree with i internal vertices contains n = mi + 1 vertices.
+-A full m-ary tree with
+
+(i) n vertices has i = (n - 1)/ m internal vertices and l = [(m - 1)n + 1 ]/ m leaves,
+
+(ii) i internal vertices has n = mi + 1 vertices and I = (m - 1)i + 1 leaves,
+
+(iii ) l leaves has n = (ml - 1 )/(m - 1) vertices and i = (l - 1 )/(m - 1) internal vertices.
+
+
