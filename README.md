@@ -332,4 +332,57 @@ A **rooted tree** is called an **m-ary tree** if every internal vertex has no mo
 
 (iii ) l leaves has n = (ml - 1 )/(m - 1) vertices and i = (l - 1 )/(m - 1) internal vertices.
 
+**Tree Traversals**
 
+http://geeksforgeeks.org/wp-content/uploads/2009/06/tree12.gif
+
+-Inorder
+-Preorder
+-Postorder
+
+Inorder Traversal:
+-Algorithm Inorder(tree)
+   1. Traverse the left subtree, i.e., call Inorder(left-subtree)
+   2. Visit the root.
+   3. Traverse the right subtree, i.e., call Inorder(right-subtree)
+Example: Inorder traversal for the above given figure is 4 2 5 1 3.
+
+Preorder Traversal:
+-Algorithm Preorder(tree)
+   1. Visit the root.
+   2. Traverse the left subtree, i.e., call Preorder(left-subtree)
+   3. Traverse the right subtree, i.e., call Preorder(right-subtree)
+Example: Preorder traversal for the above given figure is 1 2 4 5 3.
+
+Postorder Traversal:
+-Algorithm Postorder(tree)
+   1. Traverse the left subtree, i.e., call Postorder(left-subtree)
+   2. Traverse the right subtree, i.e., call Postorder(right-subtree)
+   3. Visit the root.
+Example: Postorder traversal for the above given figure is 4 5 2 3 1.
+
+A **spanning tree** is a subset of Graph G, which has all the vertices covered with minimum possible number of edges. Hence, a spanning tree does not have cycles and it can not be disconnected.
+
+An **equivalence relation** on a set X is a subset of X×X, i.e., a collection R of ordered pairs of elements of X, satisfying certain properties. Write "xRy" to mean (x,y) is an element of R, and we say "x is related to y," then the properties are
+
+1. Reflexive: aRa for all a in X,
+
+2. Symmetric: aRb implies bRa for all a,b in X
+
+3. Transitive: aRb and bRc imply aRc for all a,b,c in X, where these three properties are completely independent. 
+
+4. Other notations are often used to indicate a relation, e.g., a=b or a∼b.
+
+
+A **relation "<=" is a partial order** on a set S if it has:
+
+1. Reflexivity: a<=a for all a in S.
+
+2. Antisymmetry: a<=b and b<=a implies  a=b.
+
+3. Transitivity: a<=b and b<=c implies  a<=c.
+
+For a partial order, the size of the longest chain (antichain) is called the partial order length (partial order width). A partially ordered set is also called a poset.
+   
+   
+   
