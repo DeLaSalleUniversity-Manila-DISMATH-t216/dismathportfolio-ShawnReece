@@ -363,6 +363,50 @@ Example: Postorder traversal for the above given figure is 4 5 2 3 1.
 
 A **spanning tree** is a subset of Graph G, which has all the vertices covered with minimum possible number of edges. Hence, a spanning tree does not have cycles and it can not be disconnected.
 
+**Relations and Their Properties**
+-Defnition of a Relation. 
+-Defnition: A binary relation from a set A to a set B is a subset R  A  B:
+If (a; b) 2 R we say a is related to b by R.
+A is the domain of R, and
+B is the codomain of R.
+If A = B, R is called a binary relation on the set A.
+Notation:
+ If (a; b) 2 R, then we write aRb.
+ If (a; b) 62 R, then we write a6Rb.   
+   
+**Directed Graphs.**
+ A directed graph or a digraph D from A to B is a collection of vertices V  A [ B and a collection of edges R  A  B.
+ If there is an ordered pair e = (x; y) in R then there is an arc or edge from x to y in D.
+ The elements x and y are called the initial and terminal vertices of the edge e = (x; y), respectively.  
+   
+**Inverse Relation.**
+-Let R be a relation from A to B. Then R􀀀1 = f(b; a)j(a; b) 2
+Rg is a relation from B to A.
+R􀀀1 is called the inverse of the relation R. 
+   
+**Special Properties of Binary Relations.**
+Definitions 1.5.1. Let A be a set, and let R be a binary relation on A.
+(1) R is reflexive if allx[(x E A) --> ((x, x) E R)].
+(2) R is irreflexive if allx[(x E A) --> ((x, x) !E R)].
+(3) R is symmetric if allxally[((x, y) E R) --> ((y, x) E R)].
+(4) R is antisymmetric if allxally[([(x, y) E R] ^ [(y, x) E R]) --> (x = y)].
+(5) R is asymmetric if allxally[((x, y) E R) --> ((y, x) !E R)].
+(6) R is transitive if allxallyallz[([(x, y) E R] ^ [(y, z) E R]) --> ((x, z) E R)].
+
+**n-ary Relations**
+-Let A1;A2; :::;An be sets. An n-ary relation on these sets is a subset of A1  A2  An. The sets A1;A2; ,An are called the domains of the relation, and n is called its degree.
+-A domain of an n-ary relation is called a primary key when the value of the n-tuple from this domain determines the n-tuple.
+
+**represneting a function**
+- to represent a function in many ways that domain cannot have more than 1 pair
+
+**Closures of Relations**
+-The closure of a relation R with respect to property P is the relation obtained by adding the minimum number of ordered pairs to R to obtain property P.
+In terms of the digraph representation of R
+• To find the reflexive closure - add loops.
+• To find the symmetric closure - add arcs in the opposite direction.
+• To find the transitive closure - if there is a path from a to b, add an arc from a to b.
+
 An **equivalence relation** on a set X is a subset of X×X, i.e., a collection R of ordered pairs of elements of X, satisfying certain properties. Write "xRy" to mean (x,y) is an element of R, and we say "x is related to y," then the properties are
 
 1. Reflexive: aRa for all a in X,
@@ -382,7 +426,5 @@ A **relation "<=" is a partial order** on a set S if it has:
 
 3. Transitivity: a<=b and b<=c implies  a<=c.
 
-For a partial order, the size of the longest chain (antichain) is called the partial order length (partial order width). A partially ordered set is also called a poset.
-   
-   
+For a **partial order**, the size of the longest chain (antichain) is called the partial order length (partial order width). A partially ordered set is also called a poset.
    
